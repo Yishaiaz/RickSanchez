@@ -9,7 +9,6 @@ usage of fonts in the css.
 added a footer tag, new to html5.
 fixed issue with floating menu with nav tag and css attributes, new to html5.
 the like button and the qr code are configured to this website's address (hosted on github)
-
-
+I preferred not to promote this website, thank you for the consideration. 
  
 
