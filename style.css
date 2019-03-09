@@ -7,34 +7,35 @@ body{
 }
 #menu
 {
+
     display: block;
 	position: fixed;
 	width: 100%;
-    z-index: 10;
+    z-index: -1;
 	height: 35px;
 	background: aquamarine;
 	text-align: center;
     /*font-family: Comic Sans MS;*/
 }
 h1{
-    z-index: 1;
+    z-index: -10;
 	color:blue;
 	text-align: center;
 	text-decoration: underline;
     text-transform: capitalize;
 }
 h3{
-    z-index: 1;
+    z-index: -10;
 	color:green;
 	text-align: center;
 }
 form{
-    z-index: 1;
+    z-index: -10;
     color: blueviolet;
     text-align: center;
 }
 #photos {
-    z-index: 1;
+    z-index: -10;
     /* Prevent vertical gaps */
     line-height: 0;
     -webkit-column-count: 5;
@@ -47,15 +48,18 @@ form{
 }
 
 #photos img {
-    z-index: 1;
+    z-index: -10;
     /* Just in case there are inline attributes */
     width: 100% !important;
     height: auto !important;
 }
 #about{
-    z-index: 1;
+    z-index: -10;
     text-align: center;
 }
 footer{
     display: block;
+}
+#main_div{
+    z-index: -10;
 }
