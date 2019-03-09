@@ -2,6 +2,7 @@ html{
 	scroll-behavior: smooth;
 }
 body{
+    background: antiquewhite;
     font-family: Comic Sans MS;
 }
 #menu
