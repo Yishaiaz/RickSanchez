@@ -1,0 +1,11 @@
+{
+  "about": " Hi regular people, My name is Rick Sanchez, and I'm a pickle. \nI turned myself into a pickle, to avoid family therapy. \nIt's fine though, it's not my real family anyway, I cronenberged my 'REAL' family (as far as morty is aware).\n this is my first assignment in web development ever, because usualy i don't do these kinds of things.",
+  "photos_urls": [],
+  "youtube_playlist_url": "",
+  "qr_code_url": "",
+  "q_n_a": [{ "q_num": 1, "q_ans": "1- interactiveness and read only - web1.0 was a read only interface, giving the users only the option to view content, and not create it. therefore not interactive in almost anyway. \n2- going online - under Web1 there were little to none large organizations' and goverments' presence in the web, and in web2.0 the web got e-commerce. \n3-Executable web application - web3.0 brought the option to run code and application on the client side in a very robust and efficient way, thanks to better standardizing and stronger hardware accross both end users and servers." }, { "q_num": 2, "q_ans": "Use Case Scenario: deploying a website.\nconsidering the trends arrising now as part of the Web3.0, today, if a person would like to deploy a website to the WWW, he can use infrastructure as a service (e.g Azure,AWS, etc.), abling him to deploy a full website in mere minutes without the need to purchase and maintain a server (which is very very expensive).\n previously, the only way to have your own server was to buy a pysichal one, and plug it in to a socket at your home/office.\n reducing the process of web deployemnt and allowing everyone with a connection to become websites owners." }],
+  "contact_me": {
+    "email": "yishaiaz@post.bgu.ac.il",
+    "phone_number": "not gonna happen"
+  }
+}
