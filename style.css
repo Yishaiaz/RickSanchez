@@ -56,3 +56,6 @@ form{
     z-index: 1;
     text-align: center;
 }
+footer{
+    display: block;
+}
