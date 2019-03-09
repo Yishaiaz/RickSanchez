@@ -32,6 +32,13 @@ nav{
     padding-top: 2px;
     padding-left: 5px;
 }
+.affix {
+    top: 0px;
+    margin: 0px 20px;
+}
+.affix + .container {
+    padding: 5px;
+}
 h3{
     z-index: -10;
 	color:green;
