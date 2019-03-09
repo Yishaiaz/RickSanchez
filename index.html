@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+
+    <link rel="stylesheet" type="text/css" href="style.css" />
+
 </head>
 <body>
 <div id="menu">
@@ -17,7 +21,6 @@
 <br>
 <br>
 <section id="about" class="section">
-  <div class="container">
     <h1>about me</h1>
     <br/>
       <p>Hi regular people, My name is <mark>Rick Sanchez</mark>, and I'm a pickle.</p>
@@ -25,7 +28,6 @@
     <p>It's fine though, it's not my real family anyway, I cronenberged my 'REAL' family (as far as morty is aware).</p>
     <p>This is my first assignment in web development ever, because usualy i don't do these kinds of things.    </p>
       <p>This is written using html only, and therefore the beautiful background color :) </p>
-  </div>
 
 </section>
 <br/>
@@ -73,7 +75,6 @@
 <h1>scan my code</h1>
 <br/>
     <p align="center">
-
     <img id="qrcode_img" src="resorces/QRCode.png">
     </p>
 <br/>
@@ -135,7 +136,7 @@ $(function(){
 <script type="text/javascript">
  $(document).scroll(function() {
     $('#menu').toggle($(this).scrollTop()>1000)
- });​
+ })
  </script>
 </body>
 </html>
